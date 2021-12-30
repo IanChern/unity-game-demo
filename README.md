@@ -25,4 +25,4 @@ d.  Audio Cues
 
 e.  Escape (Close/Terminate Application) "ESC" key
 
-Link to try on Web Browser - https://ianchern.github.io/unity-game-demo/Builds/WebGL2.1/index.html
+Link to try on Web Browser - https://ianchern.github.io/unity-game-demo/Builds/WebGL2.2/index.html
