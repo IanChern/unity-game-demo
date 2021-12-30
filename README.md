@@ -6,6 +6,7 @@ Introduction
 To commemorate the Halloween festive season, this demo included elements that makes this prototype into a full-fledged spooky and horror theme. The concept remains as a sneaking game and the goal would be to sneak into the kitchen to reach the fridge.
 
 Tutorial / Instruction for Prototype
+
 a.  Player Movement
     Forward - W key / Up arrow
     Backward - S key / Down arrow
