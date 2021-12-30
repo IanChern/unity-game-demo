@@ -7,7 +7,7 @@ To commemorate the Halloween festive season, this demo included elements that ma
 
 Tutorial / Instruction for Prototype
 
-a.  Player Movement
+a.  Player Movement &nbsp;
     Forward - W key / Up arrow
     Backward - S key / Down arrow
     Left - A key / Left arrow
@@ -17,7 +17,7 @@ b.  Camera Rotation (Angles)
     Mouse control
 
 c.  Torchlight
-    “T” key ** Turn on and off for the torchlight
+    “T” key ** Turn on and off for the torchlight &nbsp;
     ** As the game is held in dark environment, it is advisable to always have to torchlight on.
 
 d.  Audio Cues
