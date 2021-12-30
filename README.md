@@ -7,21 +7,21 @@ To commemorate the Halloween festive season, this demo included elements that ma
 
 Tutorial / Instruction for Prototype
 
-a.  Player Movement &nbsp;
-    Forward - W key / Up arrow
-    Backward - S key / Down arrow
-    Left - A key / Left arrow
-    Right - D key / Right arrow
-
-b.  Camera Rotation (Angles)
+a.  Player Movement <br />
+    Forward - W key / Up arrow <br />
+    Backward - S key / Down arrow <br />
+    Left - A key / Left arrow <br />
+    Right - D key / Right arrow <br />
+    
+b.  Camera Rotation (Angles) <br />
     Mouse control
 
 c.  Torchlight
-    “T” key ** Turn on and off for the torchlight &nbsp;
+    “T” key ** Turn on and off for the torchlight <br />
     ** As the game is held in dark environment, it is advisable to always have to torchlight on.
 
 d.  Audio Cues
-    Signals to provide information for certain objects.
+    Signals to provide information for certain objects. <br />
     **There will be spatial environmental volume feedback to inform you the proximity between the entity that triggers something.
 
 e.  Escape (Close/Terminate Application) "ESC" key
