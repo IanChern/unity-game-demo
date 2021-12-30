@@ -8,22 +8,23 @@ To commemorate the Halloween festive season, this demo included elements that ma
 Tutorial / Instruction for Prototype
 
 a.  Player Movement <br />
-    Forward - W key / Up arrow <br />
-    Backward - S key / Down arrow <br />
-    Left - A key / Left arrow <br />
-    Right - D key / Right arrow <br />
+    &nbsp; &nbsp; Forward - W key / Up arrow <br />
+    &nbsp; &nbsp; Backward - S key / Down arrow <br />
+    &nbsp; &nbsp; Left - A key / Left arrow <br />
+    &nbsp; &nbsp; Right - D key / Right arrow <br />
     
 b.  Camera Rotation (Angles) <br />
-    Mouse control
+    &nbsp; &nbsp; Mouse control
 
 c.  Torchlight
     “T” key ** Turn on and off for the torchlight <br />
-    ** As the game is held in dark environment, it is advisable to always have to torchlight on.
+    &nbsp; &nbsp; ** As the game is held in dark environment, it is advisable to always have to torchlight on.
 
 d.  Audio Cues
     Signals to provide information for certain objects. <br />
-    **There will be spatial environmental volume feedback to inform you the proximity between the entity that triggers something.
+    &nbsp; &nbsp; **There will be spatial environmental volume feedback to inform you the proximity between the entity that triggers something.
 
-e.  Escape (Close/Terminate Application) "ESC" key
+e.  Escape (Close/Terminate Application) <br />
+    &nbsp; &nbsp; "ESC" key
 
 Link to try on Web Browser - https://ianchern.github.io/unity-game-demo/Builds/WebGL2.2/index.html
