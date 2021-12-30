@@ -24,3 +24,5 @@ d.  Audio Cues
     **There will be spatial environmental volume feedback to inform you the proximity between the entity that triggers something.
 
 e.  Escape (Close/Terminate Application) "ESC" key
+
+Link to try on Web Browser - https://ianchern.github.io/unity-game-demo/Builds/WebGL2.1/index.html
